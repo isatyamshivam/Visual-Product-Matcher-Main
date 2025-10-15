@@ -4,32 +4,19 @@
 
 An AI-powered visual product search system that enables users to find similar products by uploading images or providing URLs. Built with modern web technologies and deep learning for accurate visual similarity matching.This is the main repository that contains both the frontend and backend as submodules.
 
-## Live Demo - https://visual-product-matcher-isatyamshivam.vercel.app
+**Live Demo:** [https://visual-product-matcher-isatyamshivam.vercel.app/]
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Main)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Main) Visual-Product-Matcher-Main/
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Backend)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Backend) ├── backend/          # Backend API (Python/Flask)
 
-[![React](https://img.shields.io/badge/React-Frontend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Frontend)
+[![React](https://img.shields.io/badge/React-Frontend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Frontend) ├── frontend/         # Frontend Application (React/Next.js)
 
-Visual-Product-Matcher-Main/
-
-├── backend/          # Backend API (Python/Flask)
-
-├── frontend/         # Frontend Application (React/Next.js)
 
 ## 🎯 Overview
 
 Visual Product Matcher is an end-to-end machine learning application that helps users discover visually similar products from a catalog. Simply upload an image or paste a URL, and the system returns ranked results based on visual similarity scores using state-of-the-art deep learning embeddings.└── README.md
 
-
-**Live Demo:** [Frontend URL] | **API Docs:** [Backend URL/docs]
-
-## Getting Started
-
----
-
-### Clone the Repository with Submodules
 
 ## 📋 Approach (Technical Summary)
 
