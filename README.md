@@ -4,13 +4,13 @@
 
 An AI-powered visual product search system that enables users to find similar products by uploading images or providing URLs. Built with modern web technologies and deep learning for accurate visual similarity matching.This is the main repository that contains both the frontend and backend as submodules.
 
+[![Live_Demo](https://img.shields.io/badge/Link-blue)](https://visual-product-matcher-isatyamshivam.vercel.app)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Main)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Main)## Project Structure
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Backend)
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)](https://github.com/isatyamshivam/Visual-Product-Matcher-Backend)
-
-[![React](https://img.shields.io/badge/React-Frontend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Frontend)```
+[![React](https://img.shields.io/badge/React-Frontend-blue)](https://github.com/isatyamshivam/Visual-Product-Matcher-Frontend)
 
 Visual-Product-Matcher-Main/
 
