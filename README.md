@@ -14,13 +14,14 @@ An AI-powered visual product search system that enables users to find similar pr
 
 Visual-Product-Matcher-Main/
 
-## 🎯 Overview├── backend/          # Backend API (Python/Flask)
+## 🎯 Overview
+
+├── backend/          # Backend API (Python/Flask)
 
 ├── frontend/         # Frontend Application (React/Next.js)
 
 Visual Product Matcher is an end-to-end machine learning application that helps users discover visually similar products from a catalog. Simply upload an image or paste a URL, and the system returns ranked results based on visual similarity scores using state-of-the-art deep learning embeddings.└── README.md
 
-```
 
 **Live Demo:** [Frontend URL] | **API Docs:** [Backend URL/docs]
 
@@ -64,7 +65,6 @@ Or if you've already cloned the repository without submodules:
 
 - **Environment Configuration**: Utilized environment variables (`VITE_API_URL`, `ALLOWED_ORIGINS`) for flexible cross-platform deployment with health check endpoints
 
-```bash
 
 ### User Experiencegit submodule update --remote --merge
 
