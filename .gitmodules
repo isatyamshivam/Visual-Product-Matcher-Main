@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/isatyamshivam/visual_product_matcher
+	url = https://github.com/isatyamshivam/Visual-Product-Matcher-Backend.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/isatyamshivam/Visual-Product-Matcher-Frontend.git
