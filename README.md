@@ -1,4 +1,4 @@
-# Visual Product Matcher 🔍# Visual Product Matcher
+# Visual Product Matcher - AI Powered Search
 
 
 
